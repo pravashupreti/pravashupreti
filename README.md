@@ -1,4 +1,4 @@
-![Github Banner Image](media/github-banner.png)
+![Github Banner Image](https://github.com/pravashupreti/pravashupreti/blob/master/media/github-banner.png)
 
 - 🔭 I’m currently working on aws
 - 🌱 I’m currently learning to run application on cluster
