@@ -1,4 +1,4 @@
-### Hi there 👋
+![Github Banner Image](media/github-banner.png)
 
 - 🔭 I’m currently working on aws
 - 🌱 I’m currently learning to run application on cluster
